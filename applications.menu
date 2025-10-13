@@ -1,0 +1,27 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Directory>Applications.directory</Directory>
+
+  <!-- Read standard .directory and .desktop file locations -->
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+
+  <!-- Accessories submenu -->
+  <Menu>
+    <Name>Accessories</Name>
+    <Directory>Accessories.directory</Directory>
+    <Include>
+      <And>
+        <Category>Utility</Category>
+      </And>
+	  <And>
+		<Category>HamRadio</Category>
+	  </And>
+    </Include>
+  </Menu> <!-- End Accessories -->
+
+  <!-- possibly more submenus -->
+
+</Menu> <!-- End Applications -->
