@@ -47,3 +47,7 @@ Use the following settings to connect to the XPRA instance in the digipanel.
 ![XPRA Connection Settings](documantation_images/about.png)
 
 For more information go to the [XPRA project page](https://xpra.org/index.html) and download the client for your platform.  
+
+# Docker
+
+Pre-built docker container can be found [here](https://hub.docker.com/r/hammusings/digipanel-xpra)
