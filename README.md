@@ -18,6 +18,18 @@ Docker container running XPRA instance with WSJT-X, GridTracker2, and JS8Call.
 
 For general WSJT-X and GridTracker2 settings visit their respective webpages. 
 
+# Launch
+
+Clone the repository and run 
+
+```
+git clone https://github.com/hamMUSings/digipanel-xpra.git
+```
+
+```
+docker compose up -d
+```
+
 # XPRA Web Client Interface	
 
 The panel will be available at http://YOUR.SERVER.IP.HERE:7300 
