@@ -54,7 +54,7 @@ If you desire to use the apps more natively looking on your client computer and/
 
 Use the following settings to connect to the XPRA instance in the digipanel.
 
-![XPRA Connection Settings](documantation_images/about.png)
+![XPRA Connection Settings](documantation_images/xpra_connection.png)
 
 For more information go to the [XPRA project page](https://xpra.org/index.html) and download the client for your platform.  
 
