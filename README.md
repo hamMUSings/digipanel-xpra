@@ -24,9 +24,7 @@ Clone the repository and run
 
 ```
 git clone https://github.com/hamMUSings/digipanel-xpra.git
-```
-
-```
+cd digipanel-xpra
 docker compose up -d
 ```
 
