@@ -39,7 +39,7 @@ The seconds is the window switcher. In many UIs (Windows, GNOME, MacOS, etc) the
 
 If you desire to use the apps more natively looking on your client computer and/or use dual monitors you can install the XPRA client for your platform. This allows you to connect to the same session but will only bring the program windows to your machine letting them be moved to different monitors.
 
-> [!INFO]
+> [!IMPORTANT]
 > JS8Call is not available in this mode
 
 Use the following settings to connect to the XPRA instance in the digipanel.
